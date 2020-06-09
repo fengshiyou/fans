@@ -1,0 +1,9 @@
+@import "variables.scss";
+@import "base.scss";
+@import "iconfont.scss";
+
+@include scrollbar(#5494ca, 6px, #eee);
+
+body {
+    background-color: #ebedf0 !important;
+}

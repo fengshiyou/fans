@@ -1,0 +1,17 @@
+.container {
+    padding-top: 14px;
+
+    >div {
+        width: 95%;
+        border-radius: 8px;
+        margin-left: 14px;
+        padding: 10px;
+        background-color: #fff;
+        margin-bottom: 14px;
+        ;
+
+        >div {
+            margin: 6px 0;
+        }
+    }
+}
