@@ -1,5 +1,5 @@
 // 上帝保佑,永无bug
-export const Service = "govacademy-user";
+export const Service = "";
 
 export const TOKEN = "token";
 export const ROLES = "roles";
