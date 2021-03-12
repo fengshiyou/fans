@@ -69,7 +69,7 @@
     "postcss-preset-env": "^6.7.0",
     "prettier": "^1.19.1",
     "prettier-eslint-cli": "^5.0.0",
-    "react-dev-utils": "^10.0.0",
+    "react-dev-utils": "^11.0.4",
     "react-hot-loader": "4.12.18",
     "sass-loader": "^8.0.0",
     "style-loader": "^1.0.1",
