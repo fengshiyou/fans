@@ -102,6 +102,6 @@
     "react-router": "^5.0.1",
     "react-router-dom": "^5.0.1",
     "typescript": "^3.7.3",
-    "zrender": "^4.2.0"
+    "zrender": "^5.2.1"
   }
 }
